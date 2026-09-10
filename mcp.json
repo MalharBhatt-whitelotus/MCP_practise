@@ -53,6 +53,12 @@
       "args": [
           "mcp_9.py"
         ]
+    },
+    "practice-server-10": {
+      "command": "/Users/maulik/malhar /mcp_server_practise/.venv/bin/python",
+      "args": [
+          "mcp_10.py"
+        ]
     }
   }
 }
