@@ -6,7 +6,6 @@ from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP("mcp practise 12")
 
-
 async def get_post(client: AsyncClient, post_id: int) -> dict:
     """Fetch a post with retry and exponential backoff."""
 
