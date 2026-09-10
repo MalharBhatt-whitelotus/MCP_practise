@@ -1,0 +1,34 @@
+{
+  "mcpServers": {
+    "practice-server-1": {
+      "command": "/Users/maulik/malhar /mcp_server_practise/.venv/bin/python",
+      "args": [
+        "mcp_1.py"
+      ]
+    },
+    "practice-server-2": {
+      "command": "/Users/maulik/malhar /mcp_server_practise/.venv/bin/python",
+      "args": [
+        "mcp_2.py"
+      ]
+    },
+    "practice-server-3": {
+      "command": "/Users/maulik/malhar /mcp_server_practise/.venv/bin/python",
+      "args": [
+        "mcp_3.py"
+      ]
+    },
+    "practice-server-4": {
+      "command": "/Users/maulik/malhar /mcp_server_practise/.venv/bin/python",
+      "args": [
+        "mcp_4.py"
+      ]
+    },
+    "practice-server-5": {
+      "command": "/Users/maulik/malhar /mcp_server_practise/.venv/bin/python",
+      "args": [
+        "mcp_5.py"
+      ]
+    }
+  }
+}
